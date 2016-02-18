@@ -1,3 +1,3 @@
-# jsacademy | Exciting journey through javascript
+# jsacademy | Exciting journey through JavaScript
 
 Knowledge is power.
